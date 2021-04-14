@@ -138,4 +138,5 @@ Errors that are detected by the shell, such as a syntax error, will cause the sh
 $HOME/.simple_shell_history
 
 # AUTHORS
-[Ilyes Laabidi](https://github.com/ilyes01)
+[Ghassen Ayari]
+[Aymen Hadj Kacem]
